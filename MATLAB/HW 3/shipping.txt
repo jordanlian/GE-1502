@@ -1,0 +1,5 @@
+This is the weight of the package as [lb oz] -->   2   7
+This equates to  39oz
+You have chosen ground service
+Your cost is $10.93
+Thank you for shipping with UPS

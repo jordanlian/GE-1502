@@ -1,0 +1,28 @@
+total precipitation in Boston during 2017
+36.73	
+
+total precipitation in Seattle during 2017
+48.26	
+
+monthly average in Boston is
+3.06
+
+monthly average in Seattle is
+4.02
+
+amount of times precipitation was above average in Boston
+   7
+
+amount of times precipitation was above average in Seattle
+   5
+
+months where the precipitation in Boston was lower than the precipitation in Seattle
+   1
+   2
+   3
+  10
+  11
+  12
+
+amount of times that the precipitation in Boston was lower than the precipitation in Seattle
+   6
