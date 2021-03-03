@@ -1,0 +1,99 @@
+You have chosen to play 5 games
+
+--------------- Starting a new round -- Game 1 ---------------
+
+Your first roll is 1
+Your second roll is 4
+The sum of your two rolls is 5
+The point to make is 5
+
+Your new first roll is 2
+Your new second roll is 1
+The sum of your two new rolls is 3
+Oops, try again
+
+Your new first roll is 4
+Your new second roll is 5
+The sum of your two new rolls is 9
+Oops, try again
+
+Your new first roll is 5
+Your new second roll is 2
+The sum of your two new rolls is 7
+
+YOU LOSE HAHAHAHAHAH, you just got 'craps'
+Your current balance is $600
+
+--------------- Starting a new round -- Game 2 ---------------
+
+Your first roll is 5
+Your second roll is 2
+The sum of your two rolls is 7
+
+You win, you are special
+Your current balance is $1000
+
+--------------- Starting a new round -- Game 3 ---------------
+
+Your first roll is 1
+Your second roll is 3
+The sum of your two rolls is 4
+The point to make is 4
+
+Your new first roll is 3
+Your new second roll is 5
+The sum of your two new rolls is 8
+Oops, try again
+
+Your new first roll is 5
+Your new second roll is 1
+The sum of your two new rolls is 6
+Oops, try again
+
+Your new first roll is 5
+Your new second roll is 6
+The sum of your two new rolls is 11
+Oops, try again
+
+Your new first roll is 2
+Your new second roll is 6
+The sum of your two new rolls is 8
+Oops, try again
+
+Your new first roll is 5
+Your new second roll is 1
+The sum of your two new rolls is 6
+Oops, try again
+
+Your new first roll is 3
+Your new second roll is 4
+The sum of your two new rolls is 7
+
+YOU LOSE HAHAHAHAHAH, you just got 'craps'
+Your current balance is $600
+
+--------------- Starting a new round -- Game 4 ---------------
+
+Your first roll is 5
+Your second roll is 5
+The sum of your two rolls is 10
+The point to make is 10
+
+Your new first roll is 2
+Your new second roll is 5
+The sum of your two new rolls is 7
+
+YOU LOSE HAHAHAHAHAH, you just got 'craps'
+Your current balance is $200
+
+Your bet of $400 is greater than your current balance of $200.
+It is recommended that you stop playing before you lose more money and you owe the bank.
+You have chosen to quit
+
+------------------------------------------------------
+
+It looks like you have completed your games!
+HAHAHAHA, you have a net loss of $800
+
+--------------- That's it for today. Thank you for your participation :) ---------------
+
