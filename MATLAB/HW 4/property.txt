@@ -1,0 +1,3 @@
+X Coordinate(ft)			Y Coordinate(ft)			Distance(ft)		Bearing (N AZM) -- D			   M  		       S
+	 0.0000				0.0000					84.0000								  239			   1	 		  17
+	 -72.0182				-43.2363					43.0000								   84			  57	 		  57
